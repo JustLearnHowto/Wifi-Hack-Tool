@@ -1,4 +1,12 @@
+### This tool is only for educational purpose 
+#### [FOR TUTORIAL CLICK HERE]()
+
+
+[![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # WiFiBruteforce
+
+![1](https://github.com/HacksXploit/Wifi-Hack-Tool/blob/main/images/photo_2022-07-25_20-45-01.jpg?raw=true)
 
 This script can pick up a password from user's databases to WiFi networks.
 
@@ -11,3 +19,18 @@ And wait, program will check all paswords from DB one after another and will sto
 [!] SCRIPT WILL INTERRUPT FROM YOU'R CURRENT NETWORK AND CONNECT AGAIN WHEN FOUND A PASSWORD
 
 [+] ALL DATABASES MUST BE SAVING IN 'DBS' FOLDER
+## NOTE
+#### YOU CAN ALWAYS USE YOUR OWN WIFI LIST , I PREFER TO USE YOUR OWN 
+
+# TUTORIAL
+### FIRST OPEN THE TOOL 
+![2](https://github.com/HacksXploit/Wifi-Hack-Tool/blob/main/images/photo_2022-07-25_20-41-56.jpg?raw=true)
+
+### ENTER THE SHOWN DETAILS
+![3](https://github.com/HacksXploit/Wifi-Hack-Tool/blob/main/images/photo_2022-07-25_20-44-43.jpg?raw=true)
+
+### JUST CRACK THE PASSWORD AND ENJOY
+
+![4](https://github.com/HacksXploit/Wifi-Hack-Tool/blob/main/images/photo_2022-07-25_20-44-47.jpg?raw=true)
+
+
