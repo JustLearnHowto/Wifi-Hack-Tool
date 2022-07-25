@@ -1,5 +1,5 @@
 ### This tool is only for educational purpose 
-#### [FOR TUTORIAL CLICK HERE]()
+#### [FOR TUTORIAL CLICK HERE](https://github.com/HacksXploit/Wifi-Hack-Tool/blob/main/README.md#tutorial)
 
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -33,4 +33,6 @@ And wait, program will check all paswords from DB one after another and will sto
 
 ![4](https://github.com/HacksXploit/Wifi-Hack-Tool/blob/main/images/photo_2022-07-25_20-44-47.jpg?raw=true)
 
-
+# Warning:
+####  This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
+#### CODER:- NOT ME 
